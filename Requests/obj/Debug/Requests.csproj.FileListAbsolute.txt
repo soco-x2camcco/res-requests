@@ -1,0 +1,11 @@
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Requests.exe.config
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Requests.exe
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Requests.pdb
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\obj\Debug\Requests.csprojAssemblyReference.cache
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\obj\Debug\Requests.csproj.CoreCompileInputs.cache
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\obj\Debug\Requests.exe
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\obj\Debug\Requests.pdb
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\obj\Debug\Requests.csproj.CopyComplete
