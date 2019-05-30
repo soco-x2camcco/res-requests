@@ -9,3 +9,14 @@ C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Newtonsoft.Json.
 C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\bin\Debug\Newtonsoft.Json.xml
 C:\Users\X2CAMCCO\Documents\Testbed\Requests\Requests\obj\Debug\Requests.csproj.CopyComplete
+C:\res\res-requests\Requests\obj\Debug\Requests.csprojAssemblyReference.cache
+C:\res\res-requests\Requests\obj\Debug\Requests.csproj.CoreCompileInputs.cache
+C:\res\res-requests\Requests\obj\Debug\Requests.exe
+C:\res\res-requests\Requests\obj\Debug\Requests.pdb
+C:\res\res-requests\Requests\bin\Debug\Requests.exe.config
+C:\res\res-requests\Requests\bin\Debug\Requests.exe
+C:\res\res-requests\Requests\bin\Debug\Requests.pdb
+C:\res\res-requests\Requests\bin\Debug\Newtonsoft.Json.dll
+C:\res\res-requests\Requests\bin\Debug\Newtonsoft.Json.pdb
+C:\res\res-requests\Requests\bin\Debug\Newtonsoft.Json.xml
+C:\res\res-requests\Requests\obj\Debug\Requests.csproj.CopyComplete

@@ -48,6 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApiManagementRequestor.cs" />
+    <Compile Include="DeltaInverterRequestor.cs" />
+    <Compile Include="DeltaInverter\BindResponse.cs" />
+    <Compile Include="DeltaInverter\HistoryResponse.cs" />
     <Compile Include="Ecobee\Alert.cs" />
     <Compile Include="Ecobee\Event.cs" />
     <Compile Include="Ecobee\Page.cs" />

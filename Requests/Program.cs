@@ -19,9 +19,9 @@ namespace Requests
             //var resi = new RequestParticipants();
             //resi.GetParticipants("57845511FA600AF3E0531C32800A32FC", "2F55B2D9-7079-47DE-A264-40F37695C5DD", "3128603", true).Wait();
 
-            var skyCentricsRequestor = new SkyCentricsRequestor();
+            //var skyCentricsRequestor = new SkyCentricsRequestor();
             //skyCentricsRequestor.SetEvent("13637", "LU").Wait();
-            skyCentricsRequestor.GetDevices().Wait();
+            //skyCentricsRequestor.GetDevices().Wait();
             //skyCentricsRequestor.DeleteDevice("20f85ed88cf6").Wait();
 
             //skyCentricsRequestor.SetLoadShed("13637", true).Wait();
@@ -48,6 +48,10 @@ namespace Requests
 
             //var ecobeeRequestor = new EcobeeRequestor();
             //ecobeeRequestor.GetDevices().Wait();
+
+            var deltaInverterRequestor = new DeltaInverterRequestor();
+            deltaInverterRequestor.Bind("O791832000008").Wait();
+            //deltaInverterRequestor.GetHistory().Wait();
         }
     }
 }
